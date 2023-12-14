@@ -1,13 +1,10 @@
 ---
-layout: page
-title: About
+layout: post
+title: O nás
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/LacLorum.png'
 current: about
+author: marek
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
-
-We use this for testing and for reference!
-
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+V roku 2023 sme prišli v rámci inovačného inkubátoru Lifbee s nápadom uľahčiť život ľudom so syndrómom suchého oka.

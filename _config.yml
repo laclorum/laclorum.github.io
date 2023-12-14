@@ -4,11 +4,11 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'sk'
 
 # Website info
-name: 'Heating mask Lorum'
-description: "Smart heating mask for smart people"
+name: 'Smart hrejivá maska Lorum'
+description: "Chytrá hrejivá maska pre chytrých ľudí"
 
 short_url: 'laclorum.github.io/'
 google_analytics: UA-69281367-1
