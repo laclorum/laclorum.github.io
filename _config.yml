@@ -3,10 +3,12 @@
 #highlighter: pygments
 markdown: kramdown
 highlighter: rouge
-paginate: 5
+paginate: 100
 language: 'sk'
+words_per_minute: 150
 
 # Website info
+title: LacLorum
 name: 'Smart hrejivá maska Lorum'
 description: "Chytrá hrejivá maska pre chytrých ľudí"
 
@@ -48,10 +50,10 @@ lsi: false
 username: laclorum
 repo: laclorum.github.io
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://jekyllt.github.io/jasper/
-source_url:  https://github.com/jekyllt/jasper/
+relative_source: ./
+destination: ./_site/
+production_url: https://laclorum.github.io/
+source_url:  https://github.com/laclorum/laclorum.github.io/
 
 exclude:
   - README.md
